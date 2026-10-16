@@ -1,0 +1,200 @@
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/EditorHorario.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/Escena.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Mochila/EscenaMochila.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/Esquema.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/EstudioVista.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Evaluacion.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/Evaluame.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/FilaTarea.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/Flujo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/FondoTiempo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Gestos.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftDriverJobDiscovery normal x86_64 Compiling HojaClase.swift, Hola.swift, HootApp.swift, HorarioCielo.swift, HoyCielo.swift, IA.swift, Idioma.swift, InicioVista.swift, LectorTexto.swift, Lobo.swift, Logica.swift, MochilaVista.swift, Modelos.swift, ModoCapturas.swift, ModoDesarrollador.swift, Notas.swift, PaginaConfig.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftCompile normal arm64 Compiling\ PasosColegio.swift,\ PasosCuenta.swift,\ PasosFinal.swift,\ Plan.swift,\ Raiz.swift,\ Reloj.swift,\ Resumen.swift,\ Revision.swift,\ Semana.swift,\ TareaDetalle.swift,\ TareasVista.swift,\ Teams.swift,\ TextoMarkdown.swift,\ TiempoReal.swift,\ TrazoHola.swift,\ Vida.swift,\ VidaDibujo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosColegio.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosCuenta.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosFinal.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Plan.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Raiz.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Reloj.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/Resumen.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/Revision.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/Semana.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/TareaDetalle.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/TareasVista.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Teams.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/TextoMarkdown.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/TiempoReal.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/TrazoHola.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/Vida.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/VidaDibujo.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosColegio.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosCuenta.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PasosFinal.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Plan.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Raiz.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Reloj.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/Resumen.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/Revision.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/Semana.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/TareaDetalle.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/TareasVista.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Teams.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/TextoMarkdown.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/TiempoReal.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/TrazoHola.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/Vida.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/VidaDibujo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftDriverJobDiscovery normal x86_64 Compiling PasosColegio.swift, PasosCuenta.swift, PasosFinal.swift, Plan.swift, Raiz.swift, Reloj.swift, Resumen.swift, Revision.swift, Semana.swift, TareaDetalle.swift, TareasVista.swift, Teams.swift, TextoMarkdown.swift, TiempoReal.swift, TrazoHola.swift, Vida.swift, VidaDibujo.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftDriverJobDiscovery normal x86_64 Compiling Cuentas.swift, Demo.swift, Desarrollo.swift, Dictado.swift, Diseno.swift, EditorActividad.swift, EditorHorario.swift, Escena.swift, EscenaMochila.swift, Esquema.swift, EstudioVista.swift, Evaluacion.swift, Evaluame.swift, FilaTarea.swift, Flujo.swift, FondoTiempo.swift, Gestos.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftDriverJobDiscovery normal arm64 Compiling AgendaCielo.swift, Ajustes.swift, AjustesCuenta.swift, Almacen.swift, AppEstudiante.swift, AppFamilia.swift, Asignaturas.swift, Avatar.swift, Avisos.swift, AyudaFlujo.swift, BotonCerrar.swift, CalendarioVista.swift, Camaras.swift, Cielo.swift, CintaDia.swift, Compatibilidad.swift, Comunes.swift, CuentaVista.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftDriverJobDiscovery normal arm64 Compiling PasosColegio.swift, PasosCuenta.swift, PasosFinal.swift, Plan.swift, Raiz.swift, Reloj.swift, Resumen.swift, Revision.swift, Semana.swift, TareaDetalle.swift, TareasVista.swift, Teams.swift, TextoMarkdown.swift, TiempoReal.swift, TrazoHola.swift, Vida.swift, VidaDibujo.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftDriver\ Compilation Hoot normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-Swift-Compilation -- /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Hoot -Onone -enforce-exclusivity\=checked @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.SwiftFileList -DDEBUG -default-isolation\=MainActor -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios26.0-simulator -g -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -c -j4 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/SDKStatCaches.noindex/iphonesimulator26.2-23C57-e244bd9a5feaf902f95f61bf06266e52.sdkstatcache -output-file-map /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -sdk-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot_const_extract_protocols.json -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-generated-files.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-own-target-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-all-target-headers.hmap -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-project-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources-normal/arm64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources/arm64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot-Swift.h -working-directory /Users/runner/work/Hoot-demo/Hoot-demo -experimental-emit-module-separately -disable-cmo
+
+Ld /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot.debug.dylib normal arm64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios26.0-simulator -dynamiclib -isysroot /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -O0 -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -filelist /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.LinkFileList -install_name @rpath/Hoot.debug.dylib -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -Xlinker -object_path_lto -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot_lto.o -rdynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -dependency_info -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.swiftmodule @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot-linker-args.resp -Xlinker -alias -Xlinker _main -Xlinker ___debug_main_executable_dylib_entry_point -o /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot.debug.dylib
+
+ConstructStubExecutorLinkFileList /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-arm64.txt (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    construct-stub-executor-link-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot.debug.dylib /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-arm64.txt
+note: Using stub executor library with Swift entry point. (in target 'Hoot' from project 'Hoot')
+
+Ld /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot normal arm64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios26.0-simulator -isysroot /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -O0 -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @executable_path/Frameworks -rdynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-DebugDylibPath-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-DebugDylibInstallName-normal-arm64.txt -Xlinker -filelist -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-arm64.txt /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot.debug.dylib -o /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot
+
+SwiftDriverJobDiscovery normal x86_64 Compiling AgendaCielo.swift, Ajustes.swift, AjustesCuenta.swift, Almacen.swift, AppEstudiante.swift, AppFamilia.swift, Asignaturas.swift, Avatar.swift, Avisos.swift, AyudaFlujo.swift, BotonCerrar.swift, CalendarioVista.swift, Camaras.swift, Cielo.swift, CintaDia.swift, Compatibilidad.swift, Comunes.swift, CuentaVista.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftDriver\ Compilation Hoot normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-Swift-Compilation -- /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Hoot -Onone -enforce-exclusivity\=checked @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.SwiftFileList -DDEBUG -default-isolation\=MainActor -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target x86_64-apple-ios26.0-simulator -g -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -c -j4 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/SDKStatCaches.noindex/iphonesimulator26.2-23C57-e244bd9a5feaf902f95f61bf06266e52.sdkstatcache -output-file-map /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -sdk-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot_const_extract_protocols.json -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-generated-files.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-own-target-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-all-target-headers.hmap -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-project-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources-normal/x86_64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources/x86_64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot-Swift.h -working-directory /Users/runner/work/Hoot-demo/Hoot-demo -experimental-emit-module-separately -disable-cmo
+
+Ld /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot.debug.dylib normal x86_64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target x86_64-apple-ios26.0-simulator -dynamiclib -isysroot /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -O0 -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -filelist /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.LinkFileList -install_name @rpath/Hoot.debug.dylib -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -Xlinker -object_path_lto -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot_lto.o -rdynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -dependency_info -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.swiftmodule @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot-linker-args.resp -Xlinker -alias -Xlinker _main -Xlinker ___debug_main_executable_dylib_entry_point -o /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot.debug.dylib
+
+ConstructStubExecutorLinkFileList /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-x86_64.txt (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    construct-stub-executor-link-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot.debug.dylib /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-x86_64.txt
+note: Using stub executor library with Swift entry point. (in target 'Hoot' from project 'Hoot')
+
+CreateUniversalBinary /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot.debug.dylib normal arm64\ x86_64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot.debug.dylib /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot.debug.dylib -output /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot.debug.dylib
+
+Ld /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot normal x86_64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target x86_64-apple-ios26.0-simulator -isysroot /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -O0 -L/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @executable_path/Frameworks -rdynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-DebugDylibPath-normal-x86_64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-DebugDylibInstallName-normal-x86_64.txt -Xlinker -filelist -Xlinker /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-ExecutorLinkFileList-normal-x86_64.txt /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot.debug.dylib -o /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot
+
+CreateUniversalBinary /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot normal arm64\ x86_64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Binary/Hoot /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Binary/Hoot -output /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot
+
+CopySwiftLibs /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-swiftStdLibTool --copy --verbose --scan-executable /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot.debug.dylib --scan-folder /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Frameworks --scan-folder /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/PlugIns --scan-folder /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/SystemExtensions --scan-folder /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Extensions --platform iphonesimulator --toolchain /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Frameworks --strip-bitcode --strip-bitcode-tool /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+ExtractAppIntentsMetadata (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name Hoot --sdk-root /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk --xcode-version 17C529 --platform-family iOS --deployment-target 26.0 --bundle-identifier com.ejemplo.hoot --output /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app --target-triple arm64-apple-ios26.0-simulator --target-triple x86_64-apple-ios26.0-simulator --binary-file /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Hoot --dependency-file /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot_dependency_info.dat --dependency-file /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot_dependency_info.dat --stringsdata-file /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --stringsdata-file /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.SwiftFileList --source-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.SwiftFileList --metadata-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot.DependencyMetadataFileList --static-metadata-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot.DependencyStaticMetadataFileList --swift-const-vals-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.SwiftConstValuesFileList --swift-const-vals-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --validate-assistant-intents --no-app-shortcuts-localization
+2026-10-16 15:30:31.129 appintentsmetadataprocessor[9606:28949] Starting appintentsmetadataprocessor export
+2026-10-16 15:30:31.138 appintentsmetadataprocessor[9606:28949] warning: Metadata extraction skipped. No AppIntents.framework dependency found.
+
+AppIntentsSSUTraining (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsnltrainingprocessor --infoplist-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Info.plist --temp-dir-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/ssu --bundle-id com.ejemplo.hoot --product-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app --extracted-metadata-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app/Metadata.appintents --metadata-file-list /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot.DependencyMetadataFileList --archive-ssu-assets
+2026-10-16 15:30:31.209 appintentsnltrainingprocessor[9610:28967] Parsing options for appintentsnltrainingprocessor
+2026-10-16 15:30:31.211 appintentsnltrainingprocessor[9610:28967] No AppShortcuts found - Skipping.
+
+RegisterExecutionPolicyException /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-RegisterExecutionPolicyException /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app
+
+Validate /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-validationUtility /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app -shallow-bundle -infoplist-subpath Info.plist
+
+Touch /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    /usr/bin/touch -c /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/Hoot.app
+
+** BUILD SUCCEEDED **
+
