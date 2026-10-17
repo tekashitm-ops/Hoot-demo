@@ -1,0 +1,59 @@
+{
+  "name": "Hoot",
+  "identifier": "com.tekashitm.hoot.fuente",
+  "subtitle": "Tu colegio, en orden",
+  "description": "Hoot organiza el colegio: el día bajo el cielo que hace fuera (llueve, nieva, truena o sale el sol, y lo que cae choca con los botones y el lobo), la semana con lo importante de cada día, la agenda con deberes, exámenes y recordatorios, las citas de tus calendarios (el del colegio, Google, iCloud) y los comunicados de Teams sin repetir nada, un plan que dice cuándo empezar cada cosa, el horario que se pinta con el dedo, la mochila de cada día y ayuda para estudiar con fotos (explicar, resumir, esquema en PDF y «Evalúame» con el lobo), en el propio iPhone. Con modo para la familia.",
+  "iconURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/icono.png",
+  "tintColor": "#5452CF",
+  "apps": [
+    {
+      "name": "Hoot",
+      "bundleIdentifier": "com.tekashitm.hoot",
+      "developerName": "Hoot",
+      "subtitle": "Tu colegio, en orden",
+      "localizedDescription": "Hoot organiza el colegio: el día bajo el cielo que hace fuera (llueve, nieva, truena o sale el sol, y lo que cae choca con los botones y el lobo), la semana con lo importante de cada día, la agenda con deberes, exámenes y recordatorios, las citas de tus calendarios (el del colegio, Google, iCloud) y los comunicados de Teams sin repetir nada, un plan que dice cuándo empezar cada cosa, el horario que se pinta con el dedo, la mochila de cada día y ayuda para estudiar con fotos (explicar, resumir, esquema en PDF y «Evalúame» con el lobo), en el propio iPhone. Con modo para la familia.",
+      "iconURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/icono.png",
+      "tintColor": "#5452CF",
+      "category": "education",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-config-horario.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-horario-editar.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-config-materiales.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-config-calendarios-cuentas.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-config-servicios.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-calendario-dia-citas.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-cuenta-calendarios.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-teams-bloqueado.jpg"
+      ],
+      "versions": [
+        {
+          "version": "0.15.0",
+          "buildVersion": "16",
+          "date": "2026-10-17T19:53:20+00:00",
+          "localizedDescription": "El horario ya se pinta en todas las casillas y se cierra con la X. La configuración, rehecha: sin «Tu colegio», qué llevas a cada asignatura, el horario nuevo, y al final tus calendarios y Teams. Historia y Geografía, Física y Química, por separado. Fuera las notas.",
+          "downloadURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/Hoot-0.15.0.ipa",
+          "size": 4869900,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "0.15.0",
+      "versionDate": "2026-10-17T19:53:20+00:00",
+      "versionDescription": "El horario ya se pinta en todas las casillas y se cierra con la X. La configuración, rehecha: sin «Tu colegio», qué llevas a cada asignatura, el horario nuevo, y al final tus calendarios y Teams. Historia y Geografía, Física y Química, por separado. Fuera las notas.",
+      "downloadURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/Hoot-0.15.0.ipa",
+      "size": 4869900,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsFullAccessUsageDescription": "Hoot enseña las citas de tus calendarios (el del colegio, Google, iCloud) junto a tus tareas. Solo las lee.",
+          "NSCameraUsageDescription": "Hoot usa la cámara para fotografiar tus deberes y apuntes, y para leer el código de vinculación de la familia.",
+          "NSFaceIDUsageDescription": "Hoot usa Face ID para desbloquear la app si activas el bloqueo.",
+          "NSLocationWhenInUseUsageDescription": "Para que el fondo tenga el mismo tiempo que fuera.",
+          "NSMicrophoneUsageDescription": "Hoot usa el micrófono para que contestes hablando cuando el lobo te pregunta.",
+          "NSPhotoLibraryUsageDescription": "Hoot usa tus fotos para revisar deberes y hacer resúmenes.",
+          "NSSpeechRecognitionUsageDescription": "Hoot pasa a texto lo que dices para corregir tus respuestas en «Evalúame»."
+        }
+      }
+    }
+  ],
+  "news": []
+}
