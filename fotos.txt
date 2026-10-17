@@ -1,0 +1,23 @@
+# Qué fotos saca el Mac de GitHub. Cada línea: nombre y argumentos de la app (ver ModoCapturas.swift).
+# # Hoot 1.0 «Cielo y lunas» (17-10-2026): -pantalla pruebas|prueba|nueva-prueba (tras la foto del diario)|
+# nueva-prueba-elegir|repaso|repaso-final (la luna de Cartago se llena)|luna-llena|tu-cielo; -pantalla calendario abre el
+# calendario en su hoja desde Hoy (ya no va en la barra).
+[claro]
+pruebas -pantalla pruebas -hora 17:10 -espera 8
+pruebas-lluvia -pantalla pruebas -hora 17:10 -tiempo lluvia -calentar 6 -espera 8
+prueba -pantalla prueba -hora 17:10 -espera 8
+nueva-prueba-elegir -pantalla nueva-prueba-elegir -hora 17:10 -espera 8
+nueva-prueba -pantalla nueva-prueba -hora 17:10 -espera 8
+repaso -pantalla repaso -hora 17:10 -espera 8
+repaso-final -pantalla repaso-final -hora 17:10 -espera 9
+luna-llena -pantalla luna-llena -hora 21:30 -espera 9
+tu-cielo -pantalla tu-cielo -hora 21:30 -espera 8
+calendario -pantalla calendario -hora 17:10 -espera 8
+hoy -pantalla hoy -hora 17:10 -espera 8
+[grande]
+pruebas -pantalla pruebas -hora 17:10 -espera 8
+prueba -pantalla prueba -hora 17:10 -espera 8
+[pequeno]
+pruebas -pantalla pruebas -hora 17:10 -espera 8
+[video]
+# (Grabar se cuelga en los Mac de GitHub: el 15-10-2026 salieron vídeos vacíos. Sin vídeos por ahora.)
