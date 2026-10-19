@@ -1,0 +1,29 @@
+name: Hoot
+options:
+  bundleIdPrefix: com.ejemplo
+  deploymentTarget:
+    iOS: "26.0"
+targets:
+  Hoot:
+    type: application
+    platform: iOS
+    sources:
+      - Sources/Hoot
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.ejemplo.hoot
+        SWIFT_VERSION: "6.0"
+        SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Hoot
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_NSCameraUsageDescription: "Camara para deberes y codigo QR."
+        INFOPLIST_KEY_NSFaceIDUsageDescription: "Face ID para desbloquear."
+        INFOPLIST_KEY_NSMicrophoneUsageDescription: "Microfono para contestar hablando."
+        INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: "Dictado de respuestas."
+        INFOPLIST_KEY_NSLocationWhenInUseUsageDescription: "Tiempo del fondo."
+        INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription: "Citas de tus calendarios."
+        TARGETED_DEVICE_FAMILY: "1"
+        CODE_SIGNING_ALLOWED: NO
+        DEVELOPMENT_LANGUAGE: es
