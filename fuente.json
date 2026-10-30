@@ -1,0 +1,64 @@
+{
+  "name": "Hoot",
+  "identifier": "com.tekashitm.hoot.fuente",
+  "subtitle": "Cada tema, una luna",
+  "description": "Hoot te ayuda a llegar a cada prueba sabiéndolo. Apuntas los temas que dais en clase con sus fotos y los ves como constelaciones de lunas; repasas cuando quieras (un repasito de 5 minutos o «Hazme un examen» escrito, oral o con tarjetas) y, cuando hay prueba, se los adjuntas. Apuntas la prueba con una foto del diario (o dictándola) y cada tema tiene su luna: se llena cuando Hoot, el lobo, comprueba que lo sabes, al acertarlo en dos días distintos y una vez mezclado con otros temas. Te pregunta con las fotos de tu libro (en voz alta si es una interrogazione), reparte los repasos hasta el día y lo aprendido se queda como estrellas en tu cielo. Hoot lee tus fotos, PDF y diapositivas; le preguntas lo que no entiendes y te contesta con la página de tu libro; te lo lee para escucharlo con los cascos; dos días antes te pone un simulacro como el de tu profe y te lo corrige en rojo; te retas con un amigo y pasas temas a la clase. Y estudiáis juntos desde casa en una sala: pizarra en directo con las herramientas de Notas, apuntes que escribís los dos a la vez, chat, notas de voz y llamada. Con widgets y la Isla dinámica. Además, el calendario como un camino hasta cada prueba, lo de hoy según la hora (qué llevas, la mochila de mañana), la Agenda con recordatorios que ve tu familia, la mochila desde tu horario y la ayuda para estudiar con fotos. Todo en el propio iPhone, bajo el cielo que hace fuera. Complemento del registro (didUP) y de Teams.",
+  "iconURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/icono.png",
+  "tintColor": "#D98A00",
+  "apps": [
+    {
+      "name": "Hoot",
+      "bundleIdentifier": "com.tekashitm.hoot",
+      "developerName": "Hoot",
+      "subtitle": "Cada tema, una luna",
+      "localizedDescription": "Hoot te ayuda a llegar a cada prueba sabiéndolo. Apuntas los temas que dais en clase con sus fotos y los ves como constelaciones de lunas; repasas cuando quieras (un repasito de 5 minutos o «Hazme un examen» escrito, oral o con tarjetas) y, cuando hay prueba, se los adjuntas. Apuntas la prueba con una foto del diario (o dictándola) y cada tema tiene su luna: se llena cuando Hoot, el lobo, comprueba que lo sabes, al acertarlo en dos días distintos y una vez mezclado con otros temas. Te pregunta con las fotos de tu libro (en voz alta si es una interrogazione), reparte los repasos hasta el día y lo aprendido se queda como estrellas en tu cielo. Hoot lee tus fotos, PDF y diapositivas; le preguntas lo que no entiendes y te contesta con la página de tu libro; te lo lee para escucharlo con los cascos; dos días antes te pone un simulacro como el de tu profe y te lo corrige en rojo; te retas con un amigo y pasas temas a la clase. Y estudiáis juntos desde casa en una sala: pizarra en directo con las herramientas de Notas, apuntes que escribís los dos a la vez, chat, notas de voz y llamada. Con widgets y la Isla dinámica. Además, el calendario como un camino hasta cada prueba, lo de hoy según la hora (qué llevas, la mochila de mañana), la Agenda con recordatorios que ve tu familia, la mochila desde tu horario y la ayuda para estudiar con fotos. Todo en el propio iPhone, bajo el cielo que hace fuera. Complemento del registro (didUP) y de Teams.",
+      "iconURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/icono.png",
+      "tintColor": "#D98A00",
+      "category": "education",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-hoy-tarde.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-apuntar-tema.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-pruebas.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-examen.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-calendario.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-sala-pizarra.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-charla.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-simulacro-corregido.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-escuchalo.jpg",
+        "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/capturas/light-luna-llena.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.5.0",
+          "buildVersion": "24",
+          "date": "2026-10-30T22:53:39+00:00",
+          "localizedDescription": "Hoot como un profe con Claude en toda la app (te guía hasta que lo entiendes, sin hacerte la tarea), hablar con Hoot como una llamada (si hablas, Hoot se calla y te escucha), Cuenta › Uso de la IA y los planes, y los errores llegan solos para arreglarlos.",
+          "downloadURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/Hoot-1.5.0.ipa",
+          "size": 9609496,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.5.0",
+      "versionDate": "2026-10-30T22:53:39+00:00",
+      "versionDescription": "Hoot como un profe con Claude en toda la app (te guía hasta que lo entiendes, sin hacerte la tarea), hablar con Hoot como una llamada (si hablas, Hoot se calla y te escucha), Cuenta › Uso de la IA y los planes, y los errores llegan solos para arreglarlos.",
+      "downloadURL": "https://raw.githubusercontent.com/tekashitm-ops/Hoot-demo/altstore/Hoot-1.5.0.ipa",
+      "size": 9609496,
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCalendarsFullAccessUsageDescription": "Hoot enseña las citas de tus calendarios (el del colegio, Google, iCloud) junto a tus tareas. Solo las lee.",
+          "NSCameraUsageDescription": "Hoot usa la cámara para fotografiar tus apuntes y el libro, y para leer el código de una sala o de tu familia.",
+          "NSFaceIDUsageDescription": "Hoot usa Face ID para desbloquear la app si activas el bloqueo.",
+          "NSLocalNetworkUsageDescription": "Hoot busca a tus amigos que están a tu lado para retaros. No sale de tu red.",
+          "NSLocationWhenInUseUsageDescription": "Para que el fondo tenga el mismo tiempo que fuera.",
+          "NSMicrophoneUsageDescription": "Hoot usa el micrófono para que contestes hablando, para las notas de voz y para las llamadas con tus compañeros en una sala.",
+          "NSPhotoLibraryUsageDescription": "Hoot usa tus fotos para revisar deberes y hacer resúmenes.",
+          "NSSpeechRecognitionUsageDescription": "Hoot pasa a texto lo que dices para corregir tus respuestas en «Evalúame»."
+        }
+      }
+    }
+  ],
+  "news": []
+}
