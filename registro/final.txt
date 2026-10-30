@@ -1,0 +1,200 @@
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/Evaluame.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Familia.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/FilaTarea.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/Flujo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/FondoTiempo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/FrasesHoot.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/FusionCalendarios.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Gestos.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/Hola.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/HootApp.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/HootDice.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/HorarioCielo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/HoyLunas.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Huecos.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/IA.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Idioma.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/InicioVista.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ Hoot (in target 'Hoot' from project 'Hoot')
+
+EmitSwiftModule normal arm64 (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+@__swiftmacro_4Hoot12GrabadoraVozC8grabando18ObservationTrackedfMp_.swift:1:34: warning: stored property '_grabando' of 'Sendable'-conforming class 'GrabadoraVoz' is mutable
+@ObservationIgnored private  var _grabando  = false
+                                 ^
+@__swiftmacro_4Hoot12GrabadoraVozC8grabando10ObservablefMr_.swift:1:1: note: in expansion of macro 'ObservationTracked' on property 'grabando' here
+@ObservationTracked
+^
+@__swiftmacro_4Hoot12GrabadoraVozC8grabando10ObservablefMr_.swift:1:1: note: in expansion of macro 'ObservationTracked' on property 'grabando' here
+@ObservationTracked
+^
+
+SwiftDriverJobDiscovery normal x86_64 Emitting module for Hoot (in target 'Hoot' from project 'Hoot')
+
+SwiftDriver\ Compilation\ Requirements Hoot normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Hoot -Onone -enforce-exclusivity\=checked @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.SwiftFileList -DDEBUG -default-isolation\=MainActor -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target x86_64-apple-ios26.0-simulator -g -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -c -j3 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/SDKStatCaches.noindex/iphonesimulator26.2-23C57-dc75598d0054f22ec865fa860f139d72e244bd9a5feaf902f95f61bf06266e52.sdkstatcache -output-file-map /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -sdk-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot_const_extract_protocols.json -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-generated-files.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-own-target-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-all-target-headers.hmap -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-project-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources-normal/x86_64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources/x86_64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/x86_64/Hoot-Swift.h -working-directory /Users/runner/work/Hoot-demo/Hoot-demo -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for Hoot (in target 'Hoot' from project 'Hoot')
+
+SwiftDriver\ Compilation\ Requirements Hoot normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Hoot -Onone -enforce-exclusivity\=checked @/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.SwiftFileList -DDEBUG -default-isolation\=MainActor -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios26.0-simulator -g -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -F /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator -c -j3 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/SDKStatCaches.noindex/iphonesimulator26.2-23C57-dc75598d0054f22ec865fa860f139d72e244bd9a5feaf902f95f61bf06266e52.sdkstatcache -output-file-map /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -sdk-module-cache-path /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/runner/work/Hoot-demo/Hoot-demo/build/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot_const_extract_protocols.json -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-generated-files.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-own-target-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-all-target-headers.hmap -Xcc -iquote -Xcc /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Hoot-project-headers.hmap -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources-normal/arm64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources/arm64 -Xcc -I/Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/runner/work/Hoot-demo/Hoot-demo/build/Build/Intermediates.noindex/Hoot.build/Debug-iphonesimulator/Hoot.build/Objects-normal/arm64/Hoot-Swift.h -working-directory /Users/runner/work/Hoot-demo/Hoot-demo -experimental-emit-module-separately -disable-cmo
+
+SwiftCompile normal arm64 Compiling\ JSONVivo.swift,\ LectorDiario.swift,\ LectorDocumentos.swift,\ LectorTexto.swift,\ LeyMu.swift,\ LlamadaSala.swift,\ LlamadaVoz.swift,\ Llavero.swift,\ Lobo.swift,\ Logica.swift,\ Luna.swift,\ LuzDelSol.swift,\ MaterialTema.swift,\ MochilaVista.swift,\ Modelos.swift,\ ModoCapturas.swift,\ ModoDesarrollador.swift,\ MotorIA.swift,\ NocheDeLunaLlena.swift,\ Nube.swift,\ NuevaPrueba.swift,\ PaginaConfig.swift,\ Paraguas.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/JSONVivo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorDiario.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorDocumentos.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorTexto.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/LeyMu.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LlamadaSala.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LlamadaVoz.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Llavero.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Lobo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Logica.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Luna.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/LuzDelSol.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/MaterialTema.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Mochila/MochilaVista.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Modelos.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/ModoCapturas.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/ModoDesarrollador.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/MotorIA.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/NocheDeLunaLlena.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Nube.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/NuevaPrueba.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PaginaConfig.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Paraguas.swift (in target 'Hoot' from project 'Hoot')
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/JSONVivo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorDiario.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorDocumentos.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LectorTexto.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/LeyMu.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LlamadaSala.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/LlamadaVoz.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Llavero.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Lobo.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Logica.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Luna.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/LuzDelSol.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/MaterialTema.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Mochila/MochilaVista.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Modelos.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/ModoCapturas.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/ModoDesarrollador.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/MotorIA.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/NocheDeLunaLlena.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Nube.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/NuevaPrueba.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/PaginaConfig.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+SwiftCompile normal arm64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Paraguas.swift (in target 'Hoot' from project 'Hoot')
+    cd /Users/runner/work/Hoot-demo/Hoot-demo
+    
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	SwiftCompile normal x86_64 Compiling\ Escena.swift,\ EscenaMochila.swift,\ Escuchalo.swift,\ EscuchaloVista.swift,\ Esquema.swift,\ EstudioVista.swift,\ Evaluacion.swift,\ Evaluame.swift,\ Familia.swift,\ FilaTarea.swift,\ Flujo.swift,\ FondoTiempo.swift,\ FrasesHoot.swift,\ FusionCalendarios.swift,\ Gestos.swift,\ Hola.swift,\ HootApp.swift,\ HootDice.swift,\ HorarioCielo.swift,\ HoyLunas.swift,\ Huecos.swift,\ IA.swift,\ Idioma.swift,\ InicioVista.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/Escena.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Mochila/EscenaMochila.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Pruebas/EscuchaloVista.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/Esquema.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/EstudioVista.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Evaluacion.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Estudio/Evaluame.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Familia.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tareas/FilaTarea.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/Flujo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Tiempo/FondoTiempo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/FrasesHoot.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/FusionCalendarios.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/Gestos.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Configuracion/Hola.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/HootApp.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Componentes/HootDice.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Cuenta/HorarioCielo.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/HoyLunas.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Huecos.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/IA.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Nucleo/Idioma.swift /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Inicio/InicioVista.swift (in target 'Hoot' from project 'Hoot')
+	SwiftCompile normal x86_64 /Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift (in target 'Hoot' from project 'Hoot')
+	Building project Hoot with scheme Hoot
+(3 failures)

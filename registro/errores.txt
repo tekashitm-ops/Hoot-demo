@@ -1,0 +1,7 @@
+Xcode 26.3
+/Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift:398:38: error: sending 'r' risks causing data races
+/Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift:402:38: error: sending 'r' risks causing data races
+/Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift:406:35: error: sending 'r' risks causing data races
+/Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift:410:35: error: sending 'r' risks causing data races
+/Users/runner/work/Hoot-demo/Hoot-demo/Sources/Hoot/Servicios/Escuchalo.swift:414:35: error: sending 'r' risks causing data races
+** BUILD FAILED **
