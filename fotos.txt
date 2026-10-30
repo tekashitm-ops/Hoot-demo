@@ -1,0 +1,13 @@
+# Qué fotos saca el Mac de GitHub. Cada línea: nombre y argumentos de la app (ver ModoCapturas.swift).
+# 1.3 (19-10-2026): -pantalla apuntar-tema|repasito (Inicio), buscar|examen|asignatura (Pruebas); -pantalla calendario
+# abre «el camino». 1.2.1: -pantalla tema-grande, charla-fotos y estudio-abajo. 1.4: la página de Claude del modo desarrollador. 1.5: -ajuste uso
+# [-planes 1] (Uso de la IA con un mes de ejemplo, el día 18) y -pagina errores.
+[ambos]
+calentar-uso -pantalla cuenta -ajuste uso -espera 40
+uso -pantalla cuenta -ajuste uso -espera 12
+[grande]
+uso -pantalla cuenta -ajuste uso -espera 12
+[pequeno]
+uso -pantalla cuenta -ajuste uso -espera 12
+[video]
+# (Grabar se cuelga en los Mac de GitHub: el 15-10-2026 salieron vídeos vacíos. Sin vídeos por ahora.)
